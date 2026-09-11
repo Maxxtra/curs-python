@@ -7,9 +7,9 @@ pagini pe GitHub Pages.
 
 | Ce | Link |
 |---|---|
-| Ziua 1, notebook pentru elevi (vedere simplă, recomandat) | `https://alexdeonise.github.io/curs-python/notebooks/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
-| Ziua 1, în JupyterLab complet | `https://alexdeonise.github.io/curs-python/lab/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
-| Pagina principală (toate fișierele) | `https://alexdeonise.github.io/curs-python/` |
+| Ziua 1, notebook pentru elevi (vedere simplă, recomandat) | `https://maxxtra.github.io/curs-python/notebooks/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
+| Ziua 1, în JupyterLab complet | `https://maxxtra.github.io/curs-python/lab/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
+| Pagina principală (toate fișierele) | `https://maxxtra.github.io/curs-python/` |
 
 ## Publicare (o singură dată, ~5 minute)
 
@@ -20,7 +20,7 @@ pagini pe GitHub Pages.
    git init -b main
    git add .
    git commit -m "Lab 1: primii pași în Python"
-   git remote add origin https://github.com/alexdeonise/curs-python.git
+   git remote add origin https://github.com/maxxtra/curs-python.git
    git push -u origin main
    ```
 3. Pe GitHub, în repo: **Settings → Pages → Source: GitHub Actions**.
