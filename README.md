@@ -7,7 +7,8 @@ pagini pe GitHub Pages.
 
 | Ce | Link |
 |---|---|
-| Ziua 1, notebook pentru elevi (vedere simplă, recomandat) | `https://maxxtra.github.io/curs-python/notebooks/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
+| **Ziua 1, link scurt pentru elevi** | `https://maxxtra.github.io/curs-python/lab1/` |
+| Ziua 1, notebook pentru elevi (linkul complet) | `https://maxxtra.github.io/curs-python/notebooks/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
 | Ziua 1, în JupyterLab complet | `https://maxxtra.github.io/curs-python/lab/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
 | Pagina principală (toate fișierele) | `https://maxxtra.github.io/curs-python/` |
 
@@ -30,8 +31,8 @@ Orice `git push` ulterior republică automat.
 
 ## Adăugarea unui laborator nou
 
-Pui notebook-ul în `content/lab2/` (sau orice folder), `git push`, gata. Linkul devine
-`.../notebooks/index.html?path=lab2/<nume>.ipynb`.
+Pui notebook-ul în `content/lab2/`, copiezi `redirects/lab1/index.html` în `redirects/lab2/index.html` și schimbi
+numele fișierului din el, apoi `git push`. Linkul scurt devine `.../curs-python/lab2/`.
 
 ## Bun de știut
 
