@@ -1,0 +1,3 @@
+dist/
+.jupyterlite.doit.db
+__pycache__/
