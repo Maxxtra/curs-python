@@ -1,3 +1,4 @@
 dist/
 .jupyterlite.doit.db
 __pycache__/
+profesor/.jupyterlite.doit.db

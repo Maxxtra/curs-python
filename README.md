@@ -3,14 +3,15 @@
 Python rulează direct în browser, fără instalare și fără cont. Notebook-urile din `content/` devin
 pagini pe GitHub Pages.
 
-## Linkuri (după publicare)
+## Linkuri
 
-| Ce | Link |
-|---|---|
-| **Ziua 1, link scurt pentru elevi** | `https://maxxtra.github.io/curs-python/lab1/` |
-| Ziua 1, notebook pentru elevi (linkul complet) | `https://maxxtra.github.io/curs-python/notebooks/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
-| Ziua 1, în JupyterLab complet | `https://maxxtra.github.io/curs-python/lab/index.html?path=lab1/Ziua1_Python_ELEVI.ipynb` |
-| Pagina principală (toate fișierele) | `https://maxxtra.github.io/curs-python/` |
+| Sesiunea | Elevi | Profesor (cu soluții) |
+|---|---|---|
+| 1 – Primii pași în Python | https://maxxtra.github.io/curs-python/lab1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab1/ |
+| 2 – Bucle și funcții | https://maxxtra.github.io/curs-python/lab2/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab2/ |
+
+Varianta de profesor e un site JupyterLite separat (`profesor/`), construit în `dist/prof-7abe3f/`, deci nu apare
+în browserul de fișiere al elevilor. Linkul nu e dat nicăieri public, dar fișierele sunt vizibile în repo-ul public.
 
 ## Publicare (o singură dată, ~5 minute)
 
@@ -31,8 +32,9 @@ Orice `git push` ulterior republică automat.
 
 ## Adăugarea unui laborator nou
 
-Pui notebook-ul în `content/lab2/`, copiezi `redirects/lab1/index.html` în `redirects/lab2/index.html` și schimbi
-numele fișierului din el, apoi `git push`. Linkul scurt devine `.../curs-python/lab2/`.
+1. Elevi: notebook-ul în `content/labN/`, plus `redirects/labN/index.html` (copie după `lab2`, cu numele fișierului schimbat).
+2. Profesor: notebook-ul în `profesor/content/labN/`, plus `redirects/prof-7abe3f/labN/index.html`.
+3. `git push`. Linkurile devin `.../curs-python/labN/` și `.../curs-python/prof-7abe3f/labN/`.
 
 ## Bun de știut
 
