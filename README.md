@@ -9,6 +9,8 @@ pagini pe GitHub Pages.
 |---|---|---|
 | 1 – Primii pași în Python | https://maxxtra.github.io/curs-python/lab1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab1/ |
 | 2 – Bucle și funcții | https://maxxtra.github.io/curs-python/lab2/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab2/ |
+| IX B – Recapitulare Lecția 1 (în perechi, fără profesor) | https://maxxtra.github.io/curs-python/recap1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/recap1/ |
+| IX B – 2, Bucle și funcții (variantă simplificată) | https://maxxtra.github.io/curs-python/lab2b/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab2b/ |
 
 Varianta de profesor e un site JupyterLite separat (`profesor/`), construit în `dist/prof-7abe3f/`, deci nu apare
 în browserul de fișiere al elevilor. Linkul nu e dat nicăieri public, dar fișierele sunt vizibile în repo-ul public.
