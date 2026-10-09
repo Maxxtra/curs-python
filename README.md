@@ -9,6 +9,7 @@ pagini pe GitHub Pages.
 |---|---|---|
 | 1 – Primii pași în Python | https://maxxtra.github.io/curs-python/lab1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab1/ |
 | 2 – Bucle și funcții | https://maxxtra.github.io/curs-python/lab2/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab2/ |
+| 3 – Prima aplicație (liste, texte, dicționare, proiect) | https://maxxtra.github.io/curs-python/lab3/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab3/ |
 | IX B – Misiunea Python, 11:30–12:15 (în perechi, fără profesor) | https://maxxtra.github.io/curs-python/recap1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/recap1/ |
 | IX B – 2, Bucle și funcții (variantă simplificată) | https://maxxtra.github.io/curs-python/lab2b/ | https://maxxtra.github.io/curs-python/prof-7abe3f/lab2b/ |
 
