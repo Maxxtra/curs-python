@@ -15,6 +15,7 @@ pagini pe GitHub Pages.
 | IX B – Lecția 2: Misiunea Python | https://maxxtra.github.io/curs-python/ix/b/lectia2/misiune/ | https://maxxtra.github.io/curs-python/sol/ix/b/lectia2/misiune/ |
 | X A – Lecția 1: Variabile, operatori și decizii | https://maxxtra.github.io/curs-python/x/a/lectia1/ | https://maxxtra.github.io/curs-python/sol/x/a/lectia1/ |
 | X A – Lecția 2: Bucle și funcții | https://maxxtra.github.io/curs-python/x/a/lectia2/ | https://maxxtra.github.io/curs-python/sol/x/a/lectia2/ |
+| X A – Lecția 3: Prima aplicație: liste, texte, dicționare | https://maxxtra.github.io/curs-python/x/a/lectia3/ | https://maxxtra.github.io/curs-python/sol/x/a/lectia3/ |
 
 Format: `curs-python/<clasa>/<litera>/lectiaN/`, de ex. `curs-python/ix/a/lectia2/`. Linkurile vechi (`lab1/`, `lab2b/`, `xa1/` …) merg în continuare.
 
