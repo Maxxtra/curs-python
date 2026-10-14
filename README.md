@@ -7,18 +7,18 @@ pagini pe GitHub Pages.
 
 | Lecția | Elevi | Profesor (cu soluții) |
 |---|---|---|
-| IX A – Lecția 1: Primii pași în Python | https://maxxtra.github.io/curs-python/ix/a/lectia1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/ix/a/lectia1/ |
-| IX A – Lecția 2: Bucle și funcții | https://maxxtra.github.io/curs-python/ix/a/lectia2/ | https://maxxtra.github.io/curs-python/prof-7abe3f/ix/a/lectia2/ |
-| IX A – Lecția 3: Prima aplicație | https://maxxtra.github.io/curs-python/ix/a/lectia3/ | https://maxxtra.github.io/curs-python/prof-7abe3f/ix/a/lectia3/ |
-| IX B – Lecția 1: Primii pași în Python | https://maxxtra.github.io/curs-python/ix/b/lectia1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/ix/b/lectia1/ |
-| IX B – Lecția 2: Bucle și funcții | https://maxxtra.github.io/curs-python/ix/b/lectia2/ | https://maxxtra.github.io/curs-python/prof-7abe3f/ix/b/lectia2/ |
-| IX B – Lecția 2: Misiunea Python | https://maxxtra.github.io/curs-python/ix/b/lectia2/misiune/ | https://maxxtra.github.io/curs-python/prof-7abe3f/ix/b/lectia2/misiune/ |
-| X A – Lecția 1: Liste, texte, dicționare | https://maxxtra.github.io/curs-python/x/a/lectia1/ | https://maxxtra.github.io/curs-python/prof-7abe3f/x/a/lectia1/ |
-| X A – Lecția 2: Prima aplicație în echipă | https://maxxtra.github.io/curs-python/x/a/lectia2/ | https://maxxtra.github.io/curs-python/prof-7abe3f/x/a/lectia2/ |
+| IX A – Lecția 1: Primii pași în Python | https://maxxtra.github.io/curs-python/ix/a/lectia1/ | https://maxxtra.github.io/curs-python/sol/ix/a/lectia1/ |
+| IX A – Lecția 2: Bucle și funcții | https://maxxtra.github.io/curs-python/ix/a/lectia2/ | https://maxxtra.github.io/curs-python/sol/ix/a/lectia2/ |
+| IX A – Lecția 3: Prima aplicație | https://maxxtra.github.io/curs-python/ix/a/lectia3/ | https://maxxtra.github.io/curs-python/sol/ix/a/lectia3/ |
+| IX B – Lecția 1: Primii pași în Python | https://maxxtra.github.io/curs-python/ix/b/lectia1/ | https://maxxtra.github.io/curs-python/sol/ix/b/lectia1/ |
+| IX B – Lecția 2: Bucle și funcții | https://maxxtra.github.io/curs-python/ix/b/lectia2/ | https://maxxtra.github.io/curs-python/sol/ix/b/lectia2/ |
+| IX B – Lecția 2: Misiunea Python | https://maxxtra.github.io/curs-python/ix/b/lectia2/misiune/ | https://maxxtra.github.io/curs-python/sol/ix/b/lectia2/misiune/ |
+| X A – Lecția 1: Liste, texte, dicționare | https://maxxtra.github.io/curs-python/x/a/lectia1/ | https://maxxtra.github.io/curs-python/sol/x/a/lectia1/ |
+| X A – Lecția 2: Prima aplicație în echipă | https://maxxtra.github.io/curs-python/x/a/lectia2/ | https://maxxtra.github.io/curs-python/sol/x/a/lectia2/ |
 
 Format: `curs-python/<clasa>/<litera>/lectiaN/`, de ex. `curs-python/ix/a/lectia2/`. Linkurile vechi (`lab1/`, `lab2b/`, `xa1/` …) merg în continuare.
 
-Varianta de profesor e un site JupyterLite separat (`profesor/`), construit în `dist/prof-7abe3f/`, deci nu apare
+Varianta de profesor e un site JupyterLite separat (`profesor/`), construit în `dist/sol/`, deci nu apare
 în browserul de fișiere al elevilor. Linkul nu e dat nicăieri public, dar fișierele sunt vizibile în repo-ul public.
 
 ## Publicare (o singură dată, ~5 minute)
@@ -41,7 +41,7 @@ Orice `git push` ulterior republică automat.
 ## Adăugarea unui laborator nou
 
 1. Notebook-ul elevilor în `content/<folder>/`, cel de profesor în `profesor/content/<folder>/`.
-2. Linkurile scurte: `redirects/<clasa>/<litera>/lectiaN/index.html` și `redirects/prof-7abe3f/<clasa>/<litera>/lectiaN/index.html` (copie după unul existent, cu titlul și calea notebook-ului schimbate).
+2. Linkurile scurte: `redirects/<clasa>/<litera>/lectiaN/index.html` și `redirects/sol/<clasa>/<litera>/lectiaN/index.html` (copie după unul existent, cu titlul și calea notebook-ului schimbate).
 3. `git push`.
 
 ## Bun de știut
